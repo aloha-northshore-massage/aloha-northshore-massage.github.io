@@ -1,3 +1,7 @@
 # 2025-11-27
 #
-# aloha-northshore-massage.github.io
+# ~/aloha-northshore-massage.github.io/_config.yml
+#-------------------------------------------------
+theme: jekyll-theme-minimal
+title: Aloha Northshore Massage homepage
+description: Bookmark this to keep an eye on my massage business!
